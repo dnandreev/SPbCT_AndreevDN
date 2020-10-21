@@ -1,0 +1,6 @@
+﻿E:\VS2019Community\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: поддержка Windows XP прекращена, ее не будет в последующих выпусках Visual Studio. Дополнительные сведения: https://go.microsoft.com/fwlink/?linkid=2023588.
+  main.cpp
+  Создание кода
+  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Doublet.vcxproj -> C:\Users\Ligastor\source\repos\Doublet\Release\Doublet.exe
