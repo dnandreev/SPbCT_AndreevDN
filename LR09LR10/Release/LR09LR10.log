@@ -1,5 +1,0 @@
-﻿E:\VS2019Community\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: поддержка Windows XP прекращена, ее не будет в последующих выпусках Visual Studio. Дополнительные сведения: https://go.microsoft.com/fwlink/?linkid=2023588.
-  form1.cpp
-c:\users\ligastor\source\repos\lr09lr10\form1.cpp(5): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
-  form1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  LR09LR10.vcxproj -> C:\Users\Ligastor\source\repos\LR09LR10\Release\LR09LR10.exe
